@@ -1,7 +1,6 @@
 // Modulul display_and_drop - afisarea unui mesaj prin 
 // intermediul 7 segmente controlabile individual
 
-
 `timescale 1ns / 1ps
 
 module display_and_drop (
